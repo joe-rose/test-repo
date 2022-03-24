@@ -1,1 +1,3 @@
 These will conflict edits edits edits fthis a test file
+=======
+edit to conflict
